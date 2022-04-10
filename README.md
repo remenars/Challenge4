@@ -27,9 +27,4 @@ Updated School Summary
 * Thomas High School's performance before was not in line with other schools with similar per student budgets. Since the ninth graders were removed, they are now more in line with those schools like Rodriguez High School.
 * Replacing the ninth-grade Thomas High 
 
-#How does replacing the ninth-grade scores affect the following:
-#Math and reading scores by grade
-#Scores by school spending
-#Scores by school size
-#Scores by school type
-#Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+I unfortunately need to do my taxes and I'm going to submit this uncompleted assignment and perhaps come back to it when I have more time to finish it.
