@@ -9,10 +9,10 @@ Original District Summary
 ![Original District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Original%20Distric%20Summary.png)
 <i><sub>(The original District Summary shown above shows some pretty high Math and Reading scores for Thomas High School when compared to other schools that have similar Per Student Budgets (like Rodriguez High School or Ford High School).)</i></sub>
 
-![Updated District Summary]()
-<i><sub>(The update District Summary shown above shows more consistent scores for Thomas High School when compared to other schools with similar Per Student Budgets).)</i></sub>
+![Updated District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Updated%20District%20Summary.png)
+<i><sub>(The updated District Summary shown above shows more consistent scores for Thomas High School when compared to other schools with similar Per Student Budgets).)</i></sub>
 
-
+* The district summary shows 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
