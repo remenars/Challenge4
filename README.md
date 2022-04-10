@@ -6,18 +6,29 @@ The purpose of this analysis is to look at the how the budget of a school is cor
 
 Original District Summary
 
-![Original District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Original%20Distric%20Summary.png)
-<i><sub>(The original District Summary shown above shows some pretty high Math and Reading scores for Thomas High School when compared to other schools that have similar Per Student Budgets (like Rodriguez High School or Ford High School).)</i></sub>
+![Original District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Original_District_Summary.png
+)
 
-![Updated District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Updated%20District%20Summary.png)
-<i><sub>(The updated District Summary shown above shows more consistent scores for Thomas High School when compared to other schools with similar Per Student Budgets).)</i></sub>
+Updated District Summary
 
-* The district summary shows 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+![Updated District Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Updated_District_Summary.png)
 
-How is the district summary affected?
+* The district summary doesn't show much of a difference between math and reading scores once that ninth grade Thomas high scores removed. 
+
+Original School Summary
+
+![Original School Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Original_School_Summary.png)
+
+Updated School Summary
+
+![Updated School Summary](https://github.com/remenars/Challenge4/blob/main/Resources/Updated_School_Summary.png)
+
+* The updated school summary doesn't change much.
+* Thomas High School's performance before was not in line with other schools with similar per student budgets. Since the ninth graders were removed, they are now more in line with those schools like Rodriguez High School.
+
+
 How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
