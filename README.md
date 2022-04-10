@@ -1,4 +1,4 @@
-# SChool District Analysis
+# School District Analysis
 
 The purpose of this analysis is to look at the how the budget of a school is correlated to the enrolled students' math and reading scores. We took into account Charter and District high schools from the area and compared the math and reading scores of students. In this updated version, we replaced the ninth graders' math and reading scores from Thomas High School after it became known that the scores had been altered. We will look into how this change affects the averages.
 
